@@ -1,8 +1,0 @@
-github repo for Project : "https://github.com/saarthack/sidcup-family-golf/blob/main/index.html"
-
-yt video : https://www.youtube.com/watch?v=xG1_vbVPUUs
-
-
-images Logo : src="https://eiwgew27fhz.exactdn.com/wp-content/uploads/2023/02/logo-white.svg"
-      
-      video :  src="https://sidcupfamilygolf.com/wp-content/uploads/2023/02/hero.mp4"
